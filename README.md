@@ -1,7 +1,7 @@
 ## Hi ✨
 I'm **qTee**, a techie diving deep into the world of blockchain and smart contracts.
 
-### qTee's current tech track:
+### 📚 qTee's current tech track:
 - 🧾 **Solidity projects** to bring decentralized ideas to life.  
 - 🧪 Experimenting with **smart contract designs** and **Web3 tools**   
 - 💙 Exploring **Go**
