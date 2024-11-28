@@ -1,5 +1,5 @@
 ## Hi ✨
-I'm **qTee**, a tech enthusiast diving deep into the world of blockchain and smart contracts.
+I'm **qTee**, a techie diving deep into the world of blockchain and smart contracts.
 
 ### qTeePie's current tech track:
 - 🧾 **Solidity projects** to bring decentralized ideas to life.  
